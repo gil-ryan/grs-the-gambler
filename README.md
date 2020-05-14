@@ -1,5 +1,6 @@
 # My gaming resository!
-__“Strategy without tacticsis the slowest route to victory.Tacticswithout strategy is the noise before defeat.”__ - Sun Tzu
+
+__“Strategy without tactics is the slowest route to victory.Tactics without strategy is the noise before defeat.”__ - Sun Tzu
 
 ## Games
 
