@@ -49,4 +49,4 @@
 
 ## Default Chessboard
 
-[Chessboard](https://raw.githubusercontent.com/gil-ryan/grs-the-gambler/master/CHESS/img/default-chessboard.png)
+![Chessboard](https://raw.githubusercontent.com/gil-ryan/grs-the-gambler/master/CHESS/img/default-chessboard.png)
