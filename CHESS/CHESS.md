@@ -47,6 +47,8 @@
 |+|check|
 |#|mate|
 
+
+```HTML
 ==Chessboard using Unicode symbols==
 {| style="text-align:center;border-spacing:0pt;font-family:'Arial Unicode MS'; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 0pt"
 |-
@@ -140,3 +142,4 @@
 | g
 | h
 |}
+```
