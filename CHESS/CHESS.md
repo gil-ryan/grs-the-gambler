@@ -1,4 +1,4 @@
-# Chess
+# Chess :chess_pawn:
 
 ## Piece Symbols
 |Name|Symbol|Code point|HTML (decimal)|HTML     (hex)|
