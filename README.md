@@ -1,6 +1,7 @@
-# The science of gambling
+# My gaming resository!
+__“Strategy without tacticsis the slowest route to victory.Tacticswithout strategy is the noise before defeat.”__ - Sun Tzu
 
-## My Track Record
+## Games
 
-If you're going to be a degenerate gambler - it's vitals to keep track of your own winnings, and losses.
+* ![Chess]()
 
